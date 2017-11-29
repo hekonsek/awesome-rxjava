@@ -5,3 +5,7 @@
 - [Vert.x Kafka client](https://github.com/vert-x3/vertx-kafka-client) - Vert.x-based client for Kafka including RxJava API.
 - [RxJava Event](https://github.com/hekonsek/rxjava-event) - simple event model for messaging and data oriented applications.
 - [RXJava Kafka connector](https://github.com/hekonsek/rxjava-connector-kafka) - Connector between RxJava events and [Apache Kafka](https://kafka.apache.org) cluster.
+
+## Books
+
+[O'Reilly, 2016, Reactive Programming with RxJava](http://shop.oreilly.com/product/0636920042228.do) - great introduction into RxJava. Awesome for RxJava newbies.
