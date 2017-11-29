@@ -8,4 +8,4 @@
 
 ## Books
 
-[O'Reilly, 2016, Reactive Programming with RxJava](http://shop.oreilly.com/product/0636920042228.do) - great introduction into RxJava. Awesome for RxJava newbies.
+- [O'Reilly, 2016, Reactive Programming with RxJava](http://shop.oreilly.com/product/0636920042228.do) - great introduction into RxJava. Awesome for RxJava newbies.
