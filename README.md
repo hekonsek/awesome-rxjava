@@ -4,6 +4,7 @@
 
 - [Vert.x Kafka client](https://github.com/vert-x3/vertx-kafka-client) - Vert.x-based client for Kafka including RxJava API.
 - [RxJava Event](https://github.com/hekonsek/rxjava-event) - simple event model for messaging and data oriented applications.
+- [RxJava View](https://github.com/hekonsek/rxjava-view) - library providing materialized view extensions to RxJava. It allows you to generate (and access) materialized views from stream of events.
 - [RXJava Kafka connector](https://github.com/hekonsek/rxjava-connector-kafka) - Connector between RxJava events and [Apache Kafka](https://kafka.apache.org) cluster.
 
 ## Books
