@@ -3,6 +3,7 @@
 ## Concurrency
 
 - [Stack Overflow question: How to use Vert.x event loop to schedule RxJava execution](https://stackoverflow.com/questions/47675010/how-to-use-vert-x-event-loop-to-schedule-rxjava-execution)
+- [Blog post: RxJava for easy concurrency and backpressure](https://zeroturnaround.com/rebellabs/rxjava-for-easy-concurrency-and-backpressure/)
 
 ## Data streaming
 
